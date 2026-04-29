@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 // Настройки времени работы
 // Можно менять прямо здесь
 const OPEN_TIME = process.env.OPEN_TIME || "10:30";
-const CLOSE_TIME = process.env.CLOSE_TIME || "21:00";
+const CLOSE_TIME = process.env.CLOSE_TIME || "11:00";
 
 // Часовой пояс Ижевска
 const TIME_ZONE = "Europe/Samara";
